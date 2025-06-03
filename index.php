@@ -106,7 +106,7 @@
             <div class="card-content">
                 <h2 class="card-title">Ciberseguridad</h2>
                 <p class="card-description">
-                    Explora las mejores prácticas y herramientas para proteger sistemas y redes contra ataques digitales.
+                    La ciberseguridad es esencial para proteger sistemas, redes y programas de ataques digitales que buscan acceder, modificar o destruir información confidencial, extorsionar a usuarios con ransomware o interrumpir procesos comerciales.
                 </p>
             </div>
         </a>
@@ -119,7 +119,7 @@
             <div class="card-content">
                 <h2 class="card-title">Inteligencia Artificial</h2>
                 <p class="card-description">
-                    Descubre el mundo de los algoritmos inteligentes y cómo están transformando nuestra sociedad.
+                    La inteligencia artificial (IA) es un campo de la informática que se enfoca en crear sistemas que puedan realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento y la percepción
                 </p>
             </div>
         </a>
@@ -132,7 +132,7 @@
             <div class="card-content">
                 <h2 class="card-title">Marketing Digital</h2>
                 <p class="card-description">
-                    Aprende estrategias efectivas para promocionar productos y servicios en el mundo digital.
+                    El marketing digital es un conjunto de estrategias y técnicas que utilizan canales online para promocionar productos y servicios, y llegar a clientes potenciales
                 </p>
             </div>
         </a>
